@@ -1,0 +1,51 @@
+ .birthday-2 {
+    width: 640px;
+    height: 300px;
+    padding: 5px;
+    overflow-y: scroll;
+    border-radius: 8px ;
+    box-shadow:1px 1px 6px black ;
+}
+
+
+ .birthday-2 p{
+   margin-left: 25px;
+    line-height: 10px;
+}
+ .birthday-2 p:first-child {
+    color: #3A87AD; /* heading color */
+  
+}
+
+ .birthday-2::-webkit-scrollbar {
+    width: 5px; /* scroll bar width */
+}
+
+ .birthday-2::-webkit-scrollbar-track {
+    background: #F5F5F5; /* scroll bar track background color */
+}
+
+ .birthday-2::-webkit-scrollbar-thumb {
+    background: #3A87AD; /* scroll bar thumb background color */
+}
+
+ .birthday-2 hr {
+    border-color: #3A87AD; /* line color */
+    line-height: 2px !important;
+}
+
+.heading-a{
+        height:20px;
+        width: 100%;
+        border: 1px solid red;
+}
+
+ .birthday-2-heading{
+    height: 30px;
+    color: white;
+    background: #3A87AD;
+}
+
+.icon {
+    margin-right: 10px;
+}
